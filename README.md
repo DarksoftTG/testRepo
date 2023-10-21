@@ -1,2 +1,2 @@
-# description of project
+# Project's description
 Описание того,как установить Вашу программу,что она делает и.т.д.
